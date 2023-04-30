@@ -1,9 +1,9 @@
 # About
 - Star Wars API ile elde edilen starship datalarını kullanarak listing,searching and filtering özelliklerini sunan bir ffrontend projesidir.
 # Home Page
-### ![Preview](./images/starwars.PNG "GitHub")
+### ![Preview](./src/images/starwars.PNG "GitHub")
 # Detail Page
-### ![Preview](./images/starwarss.PNG "GitHub")
+### ![Preview](./src/images/starwarss.PNG "GitHub")
 # Technologies to be used
 - React.js
 - Axios
