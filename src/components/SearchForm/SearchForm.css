@@ -1,0 +1,16 @@
+.search-form {
+  width: 100%;
+  max-width: 450px;
+  margin-left: 33%;
+}
+.search-form-elem {
+  padding: 8px 26px;
+  border-radius: 48px;
+}
+.search-form-elem .form-control {
+  font-size: 16px;
+  padding: 8px;
+}
+.search-form-elem .form-control::placeholder {
+  opacity: 0.9;
+}
